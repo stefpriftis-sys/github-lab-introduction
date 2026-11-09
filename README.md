@@ -9,5 +9,5 @@ ergastirio eisagoghs sto Git kai to Github
 - Synergasia me pull request
 ## ergasia 
 -[x]Dimiourgia repository
--[] Proto topiko commit
+-[]Proto topiko commit
 
